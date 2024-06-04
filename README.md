@@ -5,8 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, Install the node Module:
 
 npm i
-#
-or npm install
+# or
+npm install
 
 
 Then, run the development server:
