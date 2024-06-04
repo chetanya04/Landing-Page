@@ -26,7 +26,7 @@ const Landing: React.FC = () => {
       <img className="part3" src="part3.png" alt="img" />
       <img className="part4" src="part4.png" alt="img" />
       <img className="endspot2" src="spot.png" alt="img" />
-      <img className="frame" src="frame.png" alt="img" />
+      <img className="frame" src="Frame.png" alt="img" />
       <img className="endpart" src="endPart.png" alt="img" />
     </div>
   );
