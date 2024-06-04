@@ -1,0 +1,178 @@
+.landing{
+  position: relative;
+}
+
+.nav{
+  position: absolute;
+  width: 1090px;
+  height: 60px;
+  top: 13px;
+  left: 141px;
+}
+
+.Star{
+  position: absolute;
+    top: 30px;
+    right: 21px;
+}
+
+.ml{
+  margin-left: 200px;
+}
+
+.Title{
+  font-family: Clash Display;
+font-size: 74px;
+font-weight: 700;
+line-height: 64px;
+text-align: left;
+position: absolute;
+    width: 618px;
+    height: 128px;
+    top: 80px;
+    left: 139px;
+}
+
+p{
+  position: absolute;
+  font-family: Clash Display;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26px;
+  width: 578px;
+  height: 56px;
+  top: 259px;
+  left: 141px;
+}
+
+.started{
+  position: absolute;
+  top: 345px;
+  left: 141px;
+}
+
+.Star2{
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 454px;
+  left: 193.94px;
+  transform: rotate(45deg);
+}
+
+.ladder{
+  position: absolute;
+    width: 543px;
+    height: 369.74px;
+    top: 413.75px;
+    left: 116px;
+}
+
+.screen1{
+  position: absolute;
+  height: 504.32px;
+  top: 56.51px;
+  left: 758px;
+}
+
+.screen2{
+  position: absolute;
+    height: 507.02px;
+    top: 110.6px;
+    left: 817px;
+}
+
+.screen3{
+  position: absolute;
+    height: 504.32px;
+    top: 137.51px;
+    right: 63px;
+}
+
+.spot{
+  width: 457.24px;
+  position: absolute;
+height: 717.14px;
+top: 131px;
+left: 731px;
+}
+
+.background{
+  position: absolute;
+  width: 441.49px;
+  height: 511.49px;
+  top: 49px;
+  right: 113px;
+}
+
+.added{
+  position: absolute;
+  height: 4025.59px;
+  top: 708px;
+  left: 7px;
+}
+
+.addedspot{
+  position: absolute;
+  width: 452px;
+  height: 475.14px;
+  top: 862px;
+  left: 87px;
+}
+
+.spotend{
+  position: absolute;
+  width: 304px;
+  height: 390.26px;
+  top: 944.71px;
+  right: -201px;
+
+}
+
+.part3{
+  position: absolute;
+  width: 1185px;
+  height: 821px;
+  top: 2743.71px;
+  left: 21px;
+
+}
+
+.part4{
+  position: absolute;
+  width: 1185px;
+  height: 747px;
+  top: 3648.71px;
+  left: 80px;
+}
+.frame{
+  position: absolute;
+  width: 1142px;
+  height: 508px;
+  top: 4608.71px;
+  left: 99px;
+}
+
+.endpart{
+  position: absolute;
+  width: 1091px;
+  height: 406px;
+  top: 5312.71px;
+  left: 143px;
+}
+
+.endspot1{
+  position: absolute;
+  width: 410px;
+  height: 345.26px;
+  top: 3028.71px;
+  left: 72px;
+}
+
+.endspot2{
+  width: 327px;
+  height: 308.26px;
+  top: 4487.71px;
+  left: -51px;
+position: absolute;
+}
